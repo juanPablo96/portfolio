@@ -1,0 +1,4 @@
+.divBox {
+  display: flex;
+  justify-content: space-around;
+}

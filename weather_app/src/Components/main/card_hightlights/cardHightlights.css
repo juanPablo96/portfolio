@@ -1,0 +1,12 @@
+.divContainerBox {
+  /*  position: absolute; */
+
+  margin: 10px;
+  width: 328px;
+  height: 204px;
+
+  left: 613px;
+  top: 457px;
+
+  background: #1e213a;
+}
